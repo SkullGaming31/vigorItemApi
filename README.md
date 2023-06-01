@@ -188,13 +188,13 @@ We appreciate your contributions to the Vigor Item API project and thank you in 
 
 Distributed under the MIT License. See **LICENSE.txt** for more information.
 
-[contributors-shield]: https://img.shields.io/github/contributors/SkullGaming31/vigorItemsApi.svg?style=for-the-badge
-[contributors-url]: https://github.com/SkullGaming31/vigorItemsApi/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SkullGaming31/vigorItemsApi.svg?style=for-the-badge
-[forks-url]: https://github.com/SkullGaming31/vigorItemsApi/network/members
-[stars-shield]: https://img.shields.io/github/stars/SkullGaming31/vigorItemsApi.svg?style=for-the-badge
-[stars-url]: https://github.com/SkullGaming31/vigorItemsApi/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SkullGaming31/vigorItemsApi.svg?style=for-the-badge
-[issues-url]: https://github.com/SkullGaming31/vigorItemsApi/issues
-[license-shield]: https://img.shields.io/github/license/SkullGaming31/vigorItemsApi.svg?style=for-the-badge
-[license-url]: https://github.com/SkullGaming31/vigorItemsApi/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/SkullGaming31/vigorItemApi.svg?style=for-the-badge
+[contributors-url]: https://github.com/SkullGaming31/vigorItemApi/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SkullGaming31/vigorItemApi.svg?style=for-the-badge
+[forks-url]: https://github.com/SkullGaming31/vigorItemApi/network/members
+[stars-shield]: https://img.shields.io/github/stars/SkullGaming31/vigorItemApi.svg?style=for-the-badge
+[stars-url]: https://github.com/SkullGaming31/vigorItemApi/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SkullGaming31/vigorItemApi.svg?style=for-the-badge
+[issues-url]: https://github.com/SkullGaming31/vigorItemApi/issues
+[license-shield]: https://img.shields.io/github/license/SkullGaming31/vigorItemApi.svg?style=for-the-badge
+[license-url]: https://github.com/SkullGaming31/vigorItemApi/blob/master/LICENSE
