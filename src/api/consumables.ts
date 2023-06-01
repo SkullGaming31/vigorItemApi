@@ -31,7 +31,7 @@ router.get<{}, ConsumablesResponse>('/', (req: Request, res: Response) => {
   res.json(consumables);
 });
 
-router.get('/consumables/:name', (req: Request, res: Response) => {
+router.get('/:name', (req: Request, res: Response) => {
   const itemName = req.params.name;
   const foundConsumable = consumables.find((consumable: Consumables) => consumable.name === itemName);
 

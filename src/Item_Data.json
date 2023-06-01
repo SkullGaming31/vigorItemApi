@@ -945,7 +945,7 @@
       "carry": 3
     }
   ],
-  "Tools": [
+  "tools": [
     {
       "name": "Armor Plate",
       "description": "Protects your torso from damage, until it gets destroyed",

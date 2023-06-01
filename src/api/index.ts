@@ -4,6 +4,7 @@ import MessageResponse from '../interfaces/MessageResponse';
 import consumables from './consumables';
 import items from './items';
 import melees from './melee';
+import throwables from './throwables';
 import tools from './tools';
 import traps from './traps';
 import weapons from './weapon';
@@ -24,5 +25,6 @@ router.use('/melee', melees);
 router.use('/consumables', consumables);
 router.use('/tools', tools);
 router.use('/traps', traps);
+router.use('/throwables', throwables);
 
 export default router;

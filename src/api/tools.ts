@@ -22,11 +22,11 @@ type ToolResponse = Array<{
 }>;
 
 
-router.get<{}, ToolResponse>('/tools', (req: Request, res: Response) => {
+router.get<{}, ToolResponse>('/', (req: Request, res: Response) => {
   res.json(tools);
 });
 
-router.get<{}, ToolResponse>('/tools/:name', (req: Request, res: Response) => {
+router.get<{}, ToolResponse>('/:name', (req: Request, res: Response) => {
   const itemName = req.params.name;
   const foundTools = tools.find((tool: Tools) => tool.name === itemName);
 

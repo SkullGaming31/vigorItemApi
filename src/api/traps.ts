@@ -21,11 +21,11 @@ const jsonData = JSON.parse(itemsData);
 const trapsData: Trap[] = jsonData.traps;
 
 
-router.get<{}, TrapsResponse>('/traps', (req: Request, res: Response) => {
+router.get<{}, TrapsResponse>('/', (req: Request, res: Response) => {
   res.json(trapsData);
 });
 
-router.get('/traps/:name', (req: Request, res: Response) => {
+router.get('/:name', (req: Request, res: Response) => {
   const itemName = req.params.name;
   const foundTrap = trapsData.find((trap: Trap) => trap.name === itemName);
 
