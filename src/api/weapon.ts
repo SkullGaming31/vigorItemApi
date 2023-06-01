@@ -17,7 +17,7 @@ interface Weapon {
   Misc: string[];
 }
 
-const itemsData = fs.readFileSync('./Item_Data.json', 'utf8');
+const itemsData = fs.readFileSync('./src/Item_Data.json', 'utf8');
 const jsonData = JSON.parse(itemsData);
 
 const weaponsData: Weapon[] = jsonData.weapon;

@@ -58,7 +58,7 @@ interface Throwable {
   carry: number;
 }
 
-const itemsData = fs.readFileSync('./Item_Data.json', 'utf8');
+const itemsData = fs.readFileSync('./src/Item_Data.json', 'utf8');
 const jsonData = JSON.parse(itemsData);
 
 // Access the arrays for each item type within the JSON object
