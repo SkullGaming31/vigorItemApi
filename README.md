@@ -30,7 +30,7 @@ By leveraging the Vigor Item API, developers can significantly streamline their 
 
 In summary, the Vigor Item API focuses on providing detailed statistical information about items in the Vigor video game. Developers can leverage this API to create applications that offer insights and analysis related to item performance, helping players optimize their strategies and make informed decisions within the game.
 
-Disclaimer:
+# Disclaimer:
 
 Please note that I, as an individual or entity, am not affiliated with or a part of the official Vigor game or Bohemia Interactive. While I strive to provide accurate information and assistance, my responses and guidance are based on general knowledge and personal research. Any information, advice, or suggestions I provide in relation to Vigor or its Bohemia Interactive should be considered independent and unofficial. For official and up-to-date information, please refer to the official channels, websites, or representatives of Vigor and it Bohemia Interactive.
 
