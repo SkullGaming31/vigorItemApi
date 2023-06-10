@@ -23,8 +23,8 @@ app.get<{}, MessageResponse>('/', (req, res) => {
     greeting: 'Welcome ',
     message: 'You can use the following endpoints:',
     endpoints: [
-      { label: 'Vigor API', endpoint: '/api/v1/' },
-      { label: 'Chatbot', endpoint: '/auth/twitch' },
+      { label: 'Vigor API', endpoint: ['/api/v1/'] },
+      { label: 'Chatbot', endpoint: ['/auth/twitch'] },
     ],
   });
 });

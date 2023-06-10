@@ -7,5 +7,5 @@ export default interface MessageResponse {
 
 interface Endpoint {
   label: string;
-  endpoint: string;
+  endpoint: string[];
 }
