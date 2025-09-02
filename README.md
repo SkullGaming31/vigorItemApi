@@ -1,3 +1,5 @@
+# Discontinued
+
 # Vigor Item API
 
 The Vigor Item API is a RESTful web service that provides access to information about items in the video game Vigor. It allows developers to retrieve detailed data on in-game items such as weapons, consumables, clothing, and more. The API offers endpoints to query item attributes, statistics, rarity, availability, and other relevant information. This data can be used by developers to build companion apps, websites, or tools that provide players with valuable insights and information about the items available in Vigor.
